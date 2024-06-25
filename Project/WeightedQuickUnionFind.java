@@ -1,5 +1,7 @@
 // Written by Tunahan İbiş, 122200077
 
+// *** PLEASE run the Percolation.java in order to get the expected output. ***
+
 // Used by Percolation.java to store information about which open sites are connected or not.
 public class WeightedQuickUnionFind {
     private int[] parent; // Parent of each element in a component
