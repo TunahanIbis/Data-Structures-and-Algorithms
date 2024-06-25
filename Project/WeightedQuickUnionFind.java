@@ -1,4 +1,4 @@
-// Written by Tunahan İbiş, 122200077
+// Written by Tunahan İbiş
 
 // *** PLEASE run the Percolation.java in order to get the expected output. ***
 
