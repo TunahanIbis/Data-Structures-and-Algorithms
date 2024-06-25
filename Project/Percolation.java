@@ -1,4 +1,4 @@
-// Written by Tunahan İbiş, 122200077
+// Written by Tunahan İbiş
 
 // Important Notes:
 
