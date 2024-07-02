@@ -4,7 +4,7 @@
 
 // ******* PLEASE DON'T FORGET to add algs4.jar file to referenced libraries to use the importations in the code. ********
 
-// Please put my WeightedQuickUnionFind.java file in the same directory with Percolation.java in order to use them together.
+// Please put WeightedQuickUnionFind.java file in the same directory with Percolation.java in order to use them together.
 
 // Explanation of Code:
 // This code prints 10 problems with decreasing probability values and tells if the grid percolates or not.
