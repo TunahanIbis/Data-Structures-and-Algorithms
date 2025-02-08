@@ -12,6 +12,7 @@ This project implements a **percolation system** using a grid-based approach. It
 
 ## Demo
 You can see how the grids are created by the algorithm here:
+
 ![Percolation Grid Project - Demo](https://github.com/user-attachments/assets/a6105871-e76b-435b-8ebd-d44c5f19f08e)
 
 ## Prerequisites
