@@ -1,6 +1,6 @@
 # Array Sorting
 
-## Overview:
+## Overview
 This Java program allows the user to input an array of integers and provides three sorting methods for sorting the array: 
 - **Sort method** (Bubble Sort),
 - **Selection Sort method**,
@@ -8,7 +8,7 @@ This Java program allows the user to input an array of integers and provides thr
 
 The user can also choose whether to sort the array in **ascending** or **descending** order. The sorted array will be displayed after performing the selected sorting algorithm.
 
-## Key Features:
+## Key Features
 - **User input handling**: The program accepts user input for the array size, elements, sorting method, and sorting order.
 - **Sorting Algorithms**: It provides three different sorting techniques:
   - **Bubble Sort (Sort method)**: A basic sorting algorithm that compares adjacent elements and swaps them if they are in the wrong order.
