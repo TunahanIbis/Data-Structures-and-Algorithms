@@ -24,14 +24,14 @@ Ensure you have the following installed:
 
 ## Installation & Setup
 
-### 1. Set Up the Project
+### Set Up the Project
 
 1. Place `algs4.jar` in your project's **lib** or **Referenced Libraries** folder.
 2. Ensure it's included in the **classpath** when compiling and running.
 
 ## How to Run
 
-### 1. Compile and Run the Program
+### Compile and Run the Program
 
 Run the following command in the terminal or command prompt:
 
