@@ -14,6 +14,9 @@ The user can also choose whether to sort the array in **ascending** or **descend
   - **Bubble Sort (Sort method)**: A basic sorting algorithm that compares adjacent elements and swaps them if they are in the wrong order.
   - **Selection Sort**: Finds the minimum (or maximum) element in the unsorted part and places it in its correct position.
   - **Insertion Sort**: Builds a sorted array one element at a time by inserting each new element into the correct position.
+ 
+## Requirements
+- Java 8 or later.
 
 ## How to Run
 1. Clone or download the repository.
