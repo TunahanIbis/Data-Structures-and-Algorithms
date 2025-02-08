@@ -19,9 +19,9 @@ Both the stack and the queue resize dynamically when their capacity is exceeded 
 ## How to Run
 1. Clone or download the repository.
 2. Compile the Java code:
-   ```bash
-   javac StackAndQueue.java
-   ```
+```bash
+javac StackAndQueue.java
+```
 3. Run the program:
 ```bash
 java StackAndQueue
