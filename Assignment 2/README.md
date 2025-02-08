@@ -1,6 +1,7 @@
 # Stack and Queue Implementation
 
-This Java program implements basic operations for both a Stack and a Queue using dynamic resizing arrays. The user can choose to work with either a stack or a queue, and perform operations like push/enqueue, pop/dequeue, and exit.
+- This Java program implements basic operations for both a Stack and a Queue using dynamic resizing arrays.
+- The user can choose to work with either a stack or a queue, and perform operations like push/enqueue, pop/dequeue, and exit.
 
 ## Features
 - **Stack Operations**:
