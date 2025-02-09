@@ -1,4 +1,4 @@
-# Percolation Grid Project
+# Percolation Grid Generator
 
 ## Overview
 
